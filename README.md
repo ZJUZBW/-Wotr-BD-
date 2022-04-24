@@ -1,6 +1,8 @@
 # 开拓者-正义之怒的剧情队友的强力Build收集 --4月21号更新
 ## **友情链接** ---[正义之怒主角BD收录](https://github.com/ZJUZBW/Wotr-BD-LR)
 
+## **友情链接** ---[正义之怒物理职业测评](https://github.com/ZJUZBW/WotR-CA)
+
 **第一作者：aaathl（贴吧名） / 唯行（QQ名）**
 
 **补充作者：**
