@@ -97,7 +97,7 @@
 
 ### ~~**职业**：14圣武士2活体1鳞拳1巫师1先知1原怒者~~（修改中）
 
-![](http://hangzhou-aaathl.oss-cn-hangzhou.aliyuncs.com/img人物面板.jpg)
+![图片](http://hangzhou-aaathl.oss-cn-hangzhou.aliyuncs.com/img人物面板.jpg)
 
 **升级顺序：**
 1圣武士（基础等级）1巫师 1鳞甲之拳 10圣武士 2活体解剖师 1启迪贤者 1原怒者 3圣武士 【也可以6级兼原怒，神话1拿无限狂暴】
