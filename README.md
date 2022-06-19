@@ -1,4 +1,4 @@
-# 开拓者-正义之怒的剧情队友的强力Build收集 --6月16号更新小烬、沃尔吉夫
+# 开拓者-正义之怒的剧情队友的强力Build收集
 ## **友情链接** ---[正义之怒主角BD收录](https://github.com/ZJUZBW/Wotr-BD-LR)
 
 ## **友情链接** ---[正义之怒物理职业测评](https://github.com/ZJUZBW/WotR-CA)
