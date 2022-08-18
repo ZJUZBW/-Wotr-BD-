@@ -5,15 +5,23 @@
 
 持续更新中—— 有问题或补充可以在群里@我
 
-**友情链接** ---[正义之怒主角BD收录](https://github.com/ZJUZBW/Wotr-BD-LR)
+**GITHUB链接** ---[正义之怒主角BD收录](https://github.com/ZJUZBW/Wotr-BD-LR)
 
-**友情链接** ---[正义之怒物理职业测评](https://github.com/ZJUZBW/WotR-CA)
+**GITHUB链接** ---[正义之怒物理职业测评](https://github.com/ZJUZBW/WotR-CA)
 
-**友情链接** ---[正义之怒队友BD收录](https://github.com/ZJUZBW/-Wotr-BD-)
+**GITHUB链接** ---[正义之怒队友BD收录](https://github.com/ZJUZBW/-Wotr-BD-)
 
-**友情链接** ---[拥王者&正义之怒全专长测评](https://github.com/ZJUZBW/Wotr-AofF)
+**GITHUB链接** ---[拥王者&正义之怒全专长测评](https://github.com/ZJUZBW/Wotr-AofF)
 
-**友情链接**（有延迟，不是最新的）：https://pan.baidu.com/s/15jx_JzQDWn4_kcxlLRdegg 提取码：wotr
+**GITHUB链接** ---[正义之怒施法者入门和进阶手册](https://github.com/ZJUZBW/Wotr-AofS)
+
+**GITHUB链接** ---[【新人向】属性、命中（AB）、防御（AC）和豁免的堆叠及法术对抗](https://github.com/ZJUZBW/Wotr-BUFF)
+
+**百度贴吧**：[【正义之怒不公平战报】【无佣兵无修改】魔能射手+全剧情队友](https://tieba.baidu.com/p/7974312458)
+
+**哔哩哔哩**：[【正义之怒不公平视频录制】【无修改】恶魔法师](https://www.bilibili.com/video/BV1Bu411C7xR)（视频太麻烦了，目前就更新到第二章虫群女王之前，而且版本比较旧了，上面的文字战报思路和教学性更好，可以结合观看）
+
+**百度网盘**：https://pan.baidu.com/s/15jx_JzQDWn4_kcxlLRdegg 提取码：wotr，【注：不会实时更新】
 
 ## 目录
 
