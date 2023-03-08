@@ -181,10 +181,10 @@
 40. 不同来源获得的啮咬攻击次数叠加。 -**已修复**
 41. 博学士的战士专长、游荡者秘闻的战斗特技可以无视察觉2阶限制选择“精通精通重击”系列专长。 -未修复
 
-### 以下为2.10J测试版更新日志部分
+### 以下为2.10u正式版更新日志部分
 
 - Eye of Truth has been reworked;
-- Fixed issues with damage for the following Honorable Judgment Gnome Hooked Hammer（高尚裁决）, Nature's Wrath Greatclub（自然之怒巨木棒）, Bellowing Howl Shortspear, Jharsygax pet（贾西各斯）, Club with Nails（带钉木棒）, Dark Glowing Scythe（暗蚀巨镰？）, Boots of Stampede（狂奔之靴？）, Vicious weapons（恶毒武器）;高尚裁决的独立附伤 - 修复
+- Fixed issues with damage for the following Honorable Judgment Gnome Hooked Hammer（高尚裁决）, Nature's Wrath Greatclub（自然之怒巨木棒）, Bellowing Howl Shortspear, Jharsygax pet（贾西各斯）, Club with Nails（带钉木棒）, Dark Glowing Scythe（暗蚀巨镰）, Boots of Stampede（狂奔之靴）, Vicious weapons（恶毒武器）;高尚裁决的独立附伤 - 修复
 - Fixed issues with damage for the following abilities: Angelic Attacks Rage Power（天使之击）, Mythic Charge（神话冲锋）, Mythic Leading Strike（引领打击）;
 - Fixed issues with damage for the following spells: Resounding Blow（轰鸣击）, Firebrand（火焰烙印）, Acid Maw（酸咬）, Geniekind（巨灵化身）, Vampiric Blade（吸血鬼之刃）, Elemental Assessor（元素评估）;
 - 不恕元素护符效果不正常 - 修复
@@ -226,7 +226,11 @@
 - 如果没有诡计大师的察觉2阶，诡计大师专长将不再出现在博学士列表
 - 怒涛碎击专长工作不正常 -修复
 - 修复了天生武器的不正常的增强加值叠加
-- 动物异变和动物的自带体型增长可以叠加了（测试版目前还没实装）
+- ~~动物异变和动物的自带体型增长可以叠加了~~（目前还没实装）
+- Alchemical Weapon ability, Alkenstar Alchemist background, and Negative Energy Mastery ability worked together incorrectly – fixed;
+- 念刃旋风没有超载，且使用超魔也不增加超载 - 修复
+- 火焰之躯没给徒手攻击而是爪击 - 修复
+- 修复了天生武器的增强加值叠加
 - 实测：轰鸣击、太阳印记、天使之击、火焰烙印变成B类。
 
 ## **最新修改** - 截止到12-5号
@@ -2962,7 +2966,7 @@ A版
 
 - 壁垒：这个主要是初始坦度最高，序章有2dr/-，小怪甚至破不了防御。而且送两个坐骑盔甲擅长，11级速出擅长重型坐骑盔甲，适合骑乘/穿甲流。
 - 蛮力：这个主要是那些有啮咬绊摔/抵刺绊摔的动物伙伴，出门送绊摔专长+2绊摔战技加值，还可以1级学欲魔落袭，这样绊摔战技就比较高了，难度不高于困难的话，绊摔还是挺厉害的。
-- 好战：能造成流血，可以跟匕首<慈悲命运>搭配，但是流血打击的加成成长不对，据说最高只+2。
+- 好战：能造成流血，可以跟匕首<慈悲命运>搭配，~~但是流血打击的加成成长不对，据说最高只+2~~【2.1.0版本修复】。
 - 悍勇：这个变体主要是突出一个乱闯，变形流这种比较适合，因为骑乘的话坐骑乱走可以靠灵巧检定无视借机攻击，但是骑者还是会被借机的【注：据说改了，骑者不会吃借机了，是动物伙伴吃；但是我没去测】。
 - 疾奔：这个机动力拉满，而且损失不大，适合变形流或者无甲骑乘。
 - 不公平难度：建议选有反射闪避的变体，这样后期配合先知的【动物之友】和<应许之人>面具，把豁免堆高了，还可以无视敌人巅峰元素的AOE伤害。
