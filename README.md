@@ -6,11 +6,13 @@
 
 持续更新中—— 有问题或补充可以在群里@我
 
+**GITHUB链接** ---[**完全洗点+MOD内容扩展情况下的队友职业RP加点思路**（新！）](https://github.com/ZJUZBW/Wotr-BD_mod)
+
 **GITHUB链接** ---[正义之怒主角BD收录](https://github.com/ZJUZBW/Wotr-BD-LR)
 
 **GITHUB链接** ---[正义之怒物理职业测评](https://github.com/ZJUZBW/WotR-CA)
 
-**GITHUB链接** ---[正义之怒原版队友BD收录](https://github.com/ZJUZBW/-Wotr-BD-)、[完全洗点+MOD内容扩展情况下的队友职业RP加点思路（新！）](https://github.com/ZJUZBW/Wotr-BD_mod)
+**GITHUB链接** ---[正义之怒原版队友BD收录](https://github.com/ZJUZBW/-Wotr-BD-)
 
 **GITHUB链接** ---[拥王者&正义之怒全专长测评](https://github.com/ZJUZBW/Wotr-AofF)
 
