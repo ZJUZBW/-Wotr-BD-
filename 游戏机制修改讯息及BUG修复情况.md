@@ -4,6 +4,7 @@
 
 - [最新BUG修复情况](#最新BUG修复情况)
 - [最新游戏机制修改讯息](#最新游戏机制修改讯息)
+- [汉化的更新日志备份](#汉化的更新日志备份)
 
 ## 最新BUG修复情况
 
@@ -153,3 +154,57 @@
 17. 所有的变形效应都可以触发变化自如的加成，且变化自如的加成变成独立加值。**强度上**：变化自如＞神话武器专攻、神话武器专精、神话致命瞄准、神话双武器战斗和神话快速射击等绝大部分物理系神话专长（除了双手的神话猛力和神话精通重击），反正之前出这些神话专长的职业，只要方便常驻变形效应就可以把这些专长优先替换为变化自如。
 
 18. 原怒者可以自由选择血脉能力是否替换狂暴特技，所以现在最多可以替换为20个狂暴特技，而不是双血脉以前一起换了，史诗级加成。
+
+# 汉化的更新日志备份
+
+### 以下为2.10u正式版更新日志部分摘要
+
+- Eye of Truth has been reworked;
+- Fixed issues with damage for the following Honorable Judgment Gnome Hooked Hammer（高尚裁决）, Nature's Wrath Greatclub（自然之怒巨木棒）, Bellowing Howl Shortspear, Jharsygax pet（贾西各斯）, Club with Nails（带钉木棒）, Dark Glowing Scythe（暗蚀巨镰）, Boots of Stampede（狂奔之靴）, Vicious weapons（恶毒武器）;高尚裁决的独立附伤 - 修复
+- Fixed issues with damage for the following abilities: Angelic Attacks Rage Power（天使之击）, Mythic Charge（神话冲锋）, Mythic Leading Strike（引领打击）;
+- Fixed issues with damage for the following spells: Resounding Blow（轰鸣击）, Firebrand（火焰烙印）, Acid Maw（酸咬）, Geniekind（巨灵化身）, Vampiric Blade（吸血鬼之刃）, Elemental Assessor（元素评估）;
+- 不恕元素护符效果不正常 - 修复
+- 《咒法与召唤的二元性》不能刷出充足怒火卷轴 - 修复
+- 圣兽之爪加值不正常 - 修复
+- 击败萨瓦梅勒克后，兰恩或雯朵格可能会从其脊椎上打出一个独特的弓；
+- Now Guardian's Shield increases the competence bonus to attacks of opportunity to +6;
+- 神圣之触戒指在空间斩/接触攻击时没有提供伤害加成 - 已修复；
+- 高奏凯歌之戒没有让属性的士气加值翻倍 - 修复
+- 充足斩击卷轴效果变更（实测结果没图标了，效果倒是没变）
+- 希望使者不朽的爱，盾击时有双倍+5增强加值 - 修复
+- 酷热之风可以增效
+- 战法转换的BAB加成，由施法者赐予，而非受术者。
+- 混血术可以通过博学士扩表了
+- Aspect of the Wolf, greater Animal Aspect, Aspect of the Falcon, Aspect of the Bear, Aspect of the Stag, Blessing of the Salamander, Frightful Aspect, Geniekind, Fiery Body, Ice Body, and Iron Body spells now benefit from Master Shapeshifter feat and got the polymorph descriptor;
+- 念刃旋风修复
+- 闪现术对AOE法术也生效 - 修复
+- Bonuses to strength, dexterity, and constitution from the Master Shapeshifter mythic ability will be displayed separately now;
+- 辉煌启言可以额外投2次而非1次 – fixed;
+- 爱露莎蕾做完转化任务以后可以获得1/2神话等级的豁免加成【运气】
+- 疾病免疫或者维生气泡可以完全免疫孢子
+- 可控火球对盟友造成最小伤害
+- 油腻术只对坐骑生效，不影响骑手了
+- 可怖外表、龙型123不能同时生效；冰躯、火躯和钢躯视为变形效应，会驱散之前的变形效果。
+- 行动自如免疫恍惚
+- 猎人动物之力的加成错误（估计是加成不跟职业等级有关而是动物伙伴等级有关的BUG）-修复
+- 步武客的各种姿态加成错误（估计是加成不跟职业等级有关而是角色等级有关的BUG） - 修复
+- 勇士赐福可以被延时超魔了
+- 天界模板给与无限次的辟邪斩-修复
+- 圣职杀手7级将获得迅捷研究
+- （高等）阴影咒法可以用延时超魔了；（高等）阴影塑能可以用极效、增效和及远超魔了
+- 巨嗣杀手的研究大型生物特性正确生效了
+- 不同队友的研究目标可以作用于同一个敌人了
+- 花豹4级体型奖励变成+4敏（实测是+2敏和2体）而不是+4体4力-2敏了。
+- 强力冲锋（奋力冲刺）的伤害计算错误 - 修复
+- 寒冰之躯现在赋予目标对力竭和疲劳状态的免疫；
+- 解除运用了错误的施法者等级 -修复
+- 战争领域不给神眷猎人扩表 - 修复
+- 如果没有诡计大师的察觉2阶，诡计大师专长将不再出现在博学士列表
+- 怒涛碎击专长工作不正常 -修复
+- 修复了天生武器的不正常的增强加值叠加
+- ~~动物异变和动物的自带体型增长可以叠加了~~（目前还没实装）
+- Alchemical Weapon ability, Alkenstar Alchemist background, and Negative Energy Mastery ability worked together incorrectly – fixed;
+- 念刃旋风没有超载，且使用超魔也不增加超载 - 修复
+- 火焰之躯没给徒手攻击而是爪击 - 修复
+- 修复了天生武器的增强加值叠加
+- 实测：轰鸣击、太阳印记、天使之击、火焰烙印变成B类。
