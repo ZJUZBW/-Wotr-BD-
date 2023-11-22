@@ -100,8 +100,58 @@
 88. 巫妖道途的元素之死，可以把全部伤害转换为负能量，而不只是元素伤害。-未修复
 89. 灵使道途的不破链接，免疫心智等一系列免疫只对10尺范围内盟友有效（跟描述不符）。-未修复
 90. ”灵狐猛扑“专长任意形态都可以提供猛扑能力，而不是描述里的灵狐形态才行。-未修复
-90. 狐人变形为人类以后也有啮咬攻击，而不是描述里的灵狐形态才行。-未修复
-90. 匕首吃双倍的夺命姿态加值，以及双倍的猛力姿态加值。-未修复
+91. 狐人变形为人类以后也有啮咬攻击，而不是描述里的灵狐形态才行。-未修复
+92. 匕首吃双倍的夺命姿态加值，以及双倍的猛力姿态加值。-未修复
+93. 阴影宽恕戒指，目前只会对昏迷的队友触发，而非盟友
+94. 念袭不再受益于天武护符
+95. 银隼修复，现在重击后会正确造成2d4的AOE力场伤害；轰烈的伤害修复（即不吃难度调整了）
+96. 圣触、纵火狂之戒的附伤BUG修复
+97. 厄运的伤害修复，<马兰德的耻辱>短剑的污邪附魔B类附伤修复
+98. 先觉斗士：暴力呼召斗篷可以对凝神狂暴（Focused Rage）生效，可以选择额外狂暴特技了
+99. 光能附魔现在可以正确运用在要害打击的攻击中
+100. 神使灵光可以延时超魔了
+101. 融血师给召唤出来的不死生物的加成从4体质改成4魅力
+102. 祝福武器和圣战之刃可以双持久了
+103. 反应施术不会对戏法生效了
+104. 强力冲锋在冲锋中没有将任何武器的威胁范围扩大一倍——修复
+105. Serenity effect no longer allows critical hits（宁静效果不再允许暴击？）
+106. Skill points were not increasing from Intelligence if the Inherent modifier was used to increase the characteristic — fixed;（天赋加值可以正确增加技能点了）
+107. Skald now grants their allies passive "Inspire Ferocity" effect;（歌者现在赋予他们的盟友被动的“激励狂暴”效果？）
+108. Some bosses didn't have the immunity for the Mythic Persuasion as they should — fixed;（部分BOSS会获得 神话说服 的免疫？）
+109. 战争学徒可以正确无视敌人的免疫重击了
+110. 法术专精可以对神话法术生效
+111. Student of War ability Mind Over Metal, Oracle's ability Nature's Whispers, and biographies Acolyte and Healer now add the highest characteristic bonus to the armor class;
+112. 野蛮人可能会在愤怒之后变得疲惫，即使他们有“无尽的愤怒”的能力。--修复
+113. 蛮力变体的动物伙伴，猛兽声威+2AB和伤害，现在变为士气加值而非其他加值
+114. The Heroic Invocation spell did not suppress the fear effects — fixed;（英雄祈神获得了正确的恐惧免疫）
+115. 提取某些血统的要求已经被修改了——例如，你不能再提取两个不同的龙血血统
+116. 战法转换法术允许角色激活魔法物品——已修复
+117. 当变形时，玩家角色不能使用任何物品——已修复
+118. 当恶魔之怒时，角色没有获得对眩晕、麻痹、石化、恐惧、眩晕、困惑和其他条件的免疫力——已修复
+119. 可以正确选择偏好法术（法术顽强）
+120. Oracle's Nature's Whisper and AC Bonus of the Scaled Fist Monk simultaneously gave a bonus to defense — fixed（鳞甲之拳和先知的自然低语，不能叠加了）
+121. Successful saving throw against the Drone ability, provides a character with immunity for 24 hours — now works correctly;
+122. 太阳形态法术现在通过将天使的神话等级添加到施法者等级来正确计算射线的伤害
+90. 心灵迷雾不再叠加两次减值
+90. 毁灭域的毁灭灵光的伤害加成现在正确工作
+90. 袍泽头盔现在可以正确计算盟友的奖励，而不计算佩戴者
+90. 免疫绊摔现在也免疫绊摔战技
+90. 真正的奥术血怒现在根据描述工作（原怒者的奥术血怒？）
+90. 各种来源的加速术，加值叠加---修复
+90. Warpriest's Destructive Attacks ability now has the correct type of bonus and correct description of the damage source;
+90. Warpriest's Soaring Assault ability is now working correctly with winged characters;
+90. 指挥官在游戏结束前的复活超时时间已增加到2轮（12秒）
+90. 灵使超音速、天堂宝剑的迅疾流光不再与加速术叠加（就是加速术加值部分）
+90. “坚木躯体”不再赋予你植物免疫
+90. 大法师护甲不由物品触发
+90. 血怒者血脉的元素打击的附伤BUG修复
+90. Disrupting weapon spell now has a correct DC for saving throw
+90. 例如颂圣之语、混乱之语等全部法术，都不再对施法者造成效果，但是会对全部生物生效。
+90. Incorporeal Bloodrager effects could be used infinitely if character picked mythic feat Limitless Rage — fixed;
+90. 僧兵的两仪回风，只对自己的武器训练有效
+90. 白鹤亮翅现在必须空一只手
+90. The Hex Shaman's Chant ability mistakenly extended the effect of the Protective Luck spell — fixed
+90. 魅影蛛网的反胃效果，现在对免疫毒素的人正常生效了。
 
 ## 最新游戏机制修改讯息
 
@@ -117,7 +167,7 @@
 
    1. **察觉2阶新增“数值强化”系列专长**（大部分都是整活专长，只有专长溢出的职业才会选）；
 
-   2. **沟通3阶实装**，现在神话7点出沟通3阶基本上就是无敌了，沟通3阶难度越高越厉害，因为致命一击的DC是{10+BAB+近战伤害属性调整值+武器重击倍率+难度加成}，难度调整的时候，敌人的力量调整值和强韧豁免（体质调整值）是同步增长的，而且高难度下敌人的DC还会有额外难度加成，而且敌人自己打自己的致命一击还会受到不公平难度下伤害翻倍的效果；
+   2. **沟通3阶实装**，现在神话7点出沟通3阶基本上就是无敌了，沟通3阶难度越高越厉害，因为致命一击的DC是{10+BAB+近战伤害属性调整值+武器重击倍率+难度加成}，难度调整的时候，敌人的力量调整值和强韧豁免（体质调整值）是同步增长的，而且高难度下敌人的DC还会有额外难度加成，而且敌人自己打自己的致命一击还会受到不公平难度下伤害翻倍的效果；【2.2版本改为第一轮战斗开始时生效，而非战斗开始时】
 
    3. 新增魔法亲和权杖，分类为魔杖，可以配合诡计大师UMD2无限次使用。诡计法系逆天加强。
 
@@ -156,6 +206,18 @@
 17. 所有的变形效应都可以触发变化自如的加成，且变化自如的加成变成独立加值。**强度上**：变化自如＞神话武器专攻、神话武器专精、神话致命瞄准、神话双武器战斗和神话快速射击等绝大部分物理系神话专长（除了双手的神话猛力和神话精通重击），反正之前出这些神话专长的职业，只要方便常驻变形效应就可以把这些专长优先替换为变化自如。
 
 18. 原怒者可以自由选择血脉能力是否替换狂暴特技，所以现在最多可以替换为20个狂暴特技，而不是双血脉以前一起换了，史诗级加成。
+
+19. 巫妖道途的骷髅伙伴重做、斯坦顿build重做、新增死亡之域和骨矛术，取消了骷髅法师+5智力加成和骷髅牧师+5感知加成
+
+20. 刺客重做
+
+21. 梦境之书可以随章节进行而解锁。
+
+22. 身体、灵魂和心灵的不可思议的转变的魔药变为炼金加值，现在可以跟天赋书叠加了。
+
+23. 金龙道途完美灵魂现在会加8感知
+
+18. 惊世神力目前伤害加值还能运用到法术上
 
 # 汉化的更新日志备份
 
