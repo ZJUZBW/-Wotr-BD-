@@ -105,13 +105,13 @@
 93. 阴影宽恕戒指，目前只会对昏迷的队友触发，而非盟友
 94. 念袭不再受益于天武护符
 95. 银隼修复，现在重击后会正确造成2d4的AOE力场伤害；轰烈的伤害修复（即不吃难度调整了）
-96. 圣触、纵火狂之戒的附伤BUG修复
-97. 厄运的伤害修复，<马兰德的耻辱>短剑的污邪附魔B类附伤修复
-98. 先觉斗士：暴力呼召斗篷可以对凝神狂暴（Focused Rage）生效，可以选择额外狂暴特技了
+96. 圣触、纵火狂之戒的附伤BUG修复【附伤BUG在队友BD部分有单独总结】
+97. 厄运的伤害修复，<马兰德的耻辱>短剑的污邪附魔伤害修复（意义不明）
+98. 先觉斗士：暴力呼召斗篷可以对凝神狂暴（Focused Rage）生效【注：对嗅血斗破还是无效】，可以选择额外狂暴特技了
 99. 光能附魔现在可以正确运用在要害打击的攻击中
 100. 神使灵光可以延时超魔了
 101. 融血师给召唤出来的不死生物的加成从4体质改成4魅力
-102. 祝福武器和圣战之刃可以双持久了
+102. 祝福武器和圣战之刃可以双持久了，且变成BUFF形式，更换武器也会对主手武器附魔（也就是说不能切换武器附魔副手了）
 103. 反应施术不会对戏法生效了
 104. 强力冲锋在冲锋中没有将任何武器的威胁范围扩大一倍——修复
 105. Serenity effect no longer allows critical hits（宁静效果不再允许暴击？）
@@ -132,26 +132,29 @@
 120. Oracle's Nature's Whisper and AC Bonus of the Scaled Fist Monk simultaneously gave a bonus to defense — fixed（鳞甲之拳和先知的自然低语，不能叠加了）
 121. Successful saving throw against the Drone ability, provides a character with immunity for 24 hours — now works correctly;
 122. 太阳形态法术现在通过将天使的神话等级添加到施法者等级来正确计算射线的伤害
-90. 心灵迷雾不再叠加两次减值
-90. 毁灭域的毁灭灵光的伤害加成现在正确工作
-90. 袍泽头盔现在可以正确计算盟友的奖励，而不计算佩戴者
-90. 免疫绊摔现在也免疫绊摔战技
-90. 真正的奥术血怒现在根据描述工作（原怒者的奥术血怒？）
-90. 各种来源的加速术，加值叠加---修复
-90. Warpriest's Destructive Attacks ability now has the correct type of bonus and correct description of the damage source;
-90. Warpriest's Soaring Assault ability is now working correctly with winged characters;
-90. 指挥官在游戏结束前的复活超时时间已增加到2轮（12秒）
-90. 灵使超音速、天堂宝剑的迅疾流光不再与加速术叠加（就是加速术加值部分）
-90. “坚木躯体”不再赋予你植物免疫
-90. 大法师护甲不由物品触发
-90. 血怒者血脉的元素打击的附伤BUG修复
-90. Disrupting weapon spell now has a correct DC for saving throw
-90. 例如颂圣之语、混乱之语等全部法术，都不再对施法者造成效果，但是会对全部生物生效。
-90. Incorporeal Bloodrager effects could be used infinitely if character picked mythic feat Limitless Rage — fixed;
-90. 僧兵的两仪回风，只对自己的武器训练有效
-90. 白鹤亮翅现在必须空一只手
-90. The Hex Shaman's Chant ability mistakenly extended the effect of the Protective Luck spell — fixed
-90. 魅影蛛网的反胃效果，现在对免疫毒素的人正常生效了。
+123. 心灵迷雾不再叠加两次减值
+124. 毁灭域的毁灭灵光的伤害加成现在正确工作
+125. 袍泽头盔现在可以正确计算盟友的奖励，而不计算佩戴者
+126. 免疫绊摔现在也免疫绊摔战技
+127. 真正的奥术血怒现在根据描述工作（原怒者的奥术血怒？）
+128. 各种来源的加速术，加值叠加---修复
+129. Warpriest's Destructive Attacks ability now has the correct type of bonus and correct description of the damage source;
+130. Warpriest's Soaring Assault ability is now working correctly with winged characters;
+131. 指挥官在游戏结束前的复活超时时间已增加到2轮（12秒）
+132. 灵使超音速、天堂宝剑的迅疾流光不再与加速术叠加（就是加速术加值部分）
+133. “坚木躯体”不再赋予你植物免疫
+134. 大法师护甲不由物品触发
+135. 血怒者血脉的元素打击的附伤BUG修复
+136. Disrupting weapon spell now has a correct DC for saving throw
+137. 例如颂圣之语、混乱之语等全部法术，都不再对施法者造成效果，但是会对全部生物生效。
+138. Incorporeal Bloodrager effects could be used infinitely if character picked mythic feat Limitless Rage — fixed;
+139. 僧兵的两仪回风，只对自己的武器训练有效
+140. 白鹤亮翅现在必须空一只手
+141. The Hex Shaman's Chant ability mistakenly extended the effect of the Protective Luck spell — fixed
+142. 魅影蛛网的反胃效果，现在对免疫毒素的人正常生效了。
+143. 扩充战法BUG修复，现在效果为（法术专攻+高等专攻）×N，N为扩充战法的选择次数。法术专攻和高等专攻只会分别计算一次（不计算神话法术专攻），就是说扩充战法第一次+2DC，第二次+4DC，以此类推。
+144. 僧兵两仪回风在存档时会失效---修复（百度贴吧有人测过了）
+145. 金龙道途神话10现在会正确增加8感知【应该是BUG修复】
 
 ## 最新游戏机制修改讯息
 
@@ -185,9 +188,9 @@
 
 8. **巫妖道途**：墓穴之主能力不再对巫妖自身有效（这个属于BUG修复，因为发售的时候就说了是BUG会改），巫妖术士惨遭削弱（虽然影响的也是后期摆拍）。
 
-9. 新增“说书人的知识”，获得全部精灵书页并交给说书人以后，可以获得说书人的知识，主角的施法者等级+2。【可惜目前这个BUFF经常无缘无故消失】
+9. 新增“说书人的知识”，获得全部精灵书页并交给说书人以后，可以获得说书人的知识，主角的施法者等级+2。【可惜目前这个BUFF经常无缘无故消失，原因就是设置错误，导致触发一次双骰取高以后就会消散】
 
-   ![image-20220515223620943](http://hangzhou-aaathl.oss-cn-hangzhou.aliyuncs.com/imgimage-20220515223620943.png)
+   ![image-20220515223620943](http://hangzhou-aaathl.oss-cn-hangzhou.aliyuncs.com/imgimage-20220515223620943.png)![image-20231125205433824](C:\Users\ZHAO\AppData\Roaming\Typora\typora-user-images\image-20231125205433824.png)
 
 10. 猎人的动物之力修改，从牛虎熊的属性增强加值变为天赋加值，起飞。
 
@@ -215,9 +218,7 @@
 
 22. 身体、灵魂和心灵的不可思议的转变的魔药变为炼金加值，现在可以跟天赋书叠加了。
 
-23. 金龙道途完美灵魂现在会加8感知
-
-18. 惊世神力目前伤害加值还能运用到非武器的伤害上
+18. 惊世神力目前伤害加值还能运用到非武器的伤害上，现在变成独立的士气加值（跟原来的士气加值叠加），不吃高奏凯歌之戒的双倍。【总体来说算是大幅度加强了，不吃双倍也就是相较于之前，神话9少1AB和1伤害，神话10少2AB和2伤害；但是神话4的时候多了4AB和4伤害】
 
 # 汉化的更新日志备份
 
