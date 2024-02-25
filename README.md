@@ -5,7 +5,7 @@
 正义之怒&拥王者的交流群：一群487092507（目前只剩这个群了）、~~二群：972953691（**推荐**，二群聊游戏比较多）~~、~~2.5群：191268357~~、2.6群：570449412（新建的）、也可以加下面的“Owlcat游戏交流”频道（扫描二维码加入，主要讨论拥王者、正义之怒和未来要出的行商浪人）。
 
 - **在国内很多网络环境，GITHUB网站访问都存在一定抽风现象，会时不时无法访问，通常刷新就可以解决。如果实在问题严重，可以下载[瓦特工具箱（Watt Toolkit）](https://steampp.net/) 来解决。也可以下载整个说明文档（右上角绿色图标，CODE---Download ZIP），下载后解压，用浏览器或者记事本（可以自行下载更好的软件，善用搜索引擎，关键词“打开.md文件”）直接打开 README.md 这个文件即可**。【特别注意！！！】【目前放出队友BD的备份版本，在右边 [Release](https://github.com/ZJUZBW/-Wotr-BD-/releases) 处下载】
-- [**正义之怒：游戏更新后的机制修改讯息及BUG修复情况**](游戏机制修改讯息及BUG修复情况.md) --- 2024-1-18号更新
+- **重要内容**：[**正义之怒：游戏更新后的机制修改讯息及BUG修复情况**](游戏机制修改讯息及BUG修复情况.md) --- 2024-1-18号更新
 - **GITHUB链接**
   - [**完全洗点+MOD内容扩展情况下的队友职业RP加点思路**（新！）](https://github.com/ZJUZBW/Wotr-BD_mod)
   - [正义之怒主角BD收录](https://github.com/ZJUZBW/Wotr-BD-LR)
@@ -26,15 +26,8 @@
 
 <center class="half">    
   <img src="images/频道二维码.jpg" width="330"/>    
-  <img src="https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/Screenshot 2022-12-15 022440.jpg" width="770"/> 
+  <img src="images/频道内容.jpg" width="770"/> 
 </center>
-
-
-
-
-
-
-
 ## 目录
 
 [TOC]
