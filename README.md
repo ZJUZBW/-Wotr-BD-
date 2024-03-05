@@ -26,7 +26,7 @@
 
 <center class="half">    
   <img src="images/频道二维码.jpg" width="330"/>    
-  <img src="images/频道内容.jpg" width="330"/> 
+  <img src="images/频道内容.jpg" width="770"/> 
 </center>
 ## 目录
 
