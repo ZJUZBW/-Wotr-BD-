@@ -221,7 +221,7 @@
 200. 螳螂狂信徒的【红幕】，在13级时通过迅捷动作而不是自由动作使用 - 已修复；
 201. 烛台守卫现在是表现加值【应该是实锤了，就是强行把烛台守卫改成表现加值，不是误改】。（Guarded Hearth ability has returned to the previous version of bonus types - fixed;）
      1. 表现加值A类：烛台守卫、为了吾王、勇气颂歌
-     2. 表现加值B类：猛掷戒指、隼之型、临危之戒、夺命姿态
+     2. 表现加值B类：猛掷戒指、隼之型、临危之戒、夺命姿态、神射护腕/次级神射护腕
 
 202. 修复了圣骑士的坐骑进度
 203. 修复了魔躯化形师9级不能正常使用恶魔/魔鬼拟态的问题。（Fixed Devil/Demon aspects not working for fiendflesh shifter on level 9;）
