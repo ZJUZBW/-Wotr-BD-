@@ -120,7 +120,7 @@
 108. Some bosses didn't have the immunity for the Mythic Persuasion as they should — fixed;（部分BOSS会获得 神话说服 的免疫？）
 109. 战争学徒可以正确无视敌人的免疫重击了
 110. 法术专精可以对神话法术生效
-111. Student of War ability Mind Over Metal, Oracle's ability Nature's Whispers, and biographies Acolyte and Healer now add the highest characteristic bonus to the armor class;
+111. Student of War ability Mind Over Metal， Oracle's ability Nature's Whispers， and biographies Acolyte and Healer now add the highest characteristic bonus to the armor class;
 112. 野蛮人可能会在愤怒之后变得疲惫，即使他们有“无尽的愤怒”的能力。--修复
 113. 蛮力变体的动物伙伴，猛兽声威+2AB和伤害，现在变为士气加值而非其他加值。
 114. The Heroic Invocation spell did not suppress the fear effects — fixed;（英雄祈神获得了正确的恐惧免疫）
@@ -130,7 +130,7 @@
 118. 当恶魔之怒时，角色没有获得对眩晕、麻痹、石化、恐惧、眩晕、困惑和其他条件的免疫力——已修复
 119. 可以正确选择偏好法术（法术顽强）
 120. Oracle's Nature's Whisper and AC Bonus of the Scaled Fist Monk simultaneously gave a bonus to defense — fixed（鳞甲之拳和先知的自然低语，不能叠加了）
-121. Successful saving throw against the Drone ability, provides a character with immunity for 24 hours — now works correctly;
+121. Successful saving throw against the Drone ability， provides a character with immunity for 24 hours — now works correctly;
 122. 太阳形态法术现在通过将天使的神话等级添加到施法者等级来正确计算射线的伤害
 123. 心灵迷雾不再叠加两次减值
 124. 毁灭域的毁灭灵光的伤害加成现在正确工作
@@ -192,12 +192,47 @@
 180. 修复了与深黯军团骑士相关的错误：
      - 飞行攻击能力的远程攻击导致敌人产生了借机攻击——已修复；
      - 飞行攻击能力中的攻击未被视为冲锋攻击——已修复；
-     - 最强之翼能力现在不仅可以由鷲马使用，还可以由坐在鷲马的骑士使用。现在不需要在战斗中每次都切换到鷲马（这在主机的回合制模式中是不可能的）。应用该能力仍然使用鷲马的主要行动；
+     - 风卷残云能力现在不仅可以由鷲马使用，还可以由坐在鷲马的骑士使用（显示为自由动作释放---应用该能力仍然使用鷲马的标准动作）。现在不需要在战斗中每次都切换到鷲马（这在主机的回合制模式中是不可能的）。
+     - 鷲马伙伴未获得宿敌加成---2.4.0x修复
+     - 飞行攻击无法正确运用于集群敌人 ---2.4.0x修复
+     - 现在深黯军团骑士在快速访问栏上具有鷲马伙伴的“飞行攻击能力”
+     - 骑手的飞行攻击，目前可以正确触发猛扑和奋力冲刺等能力
 181. 修复了导致坐骑在“冲锋攻击”中未总是进行攻击以及其他冲锋攻击问题的错误。现在，无论是坐骑还是骑士使用冲锋攻击，都会始终进行一次攻击并获得相应的加成。如果骑士在使用冲锋攻击时手持远程武器，骑士会进行完整攻击而没有冲锋加成。
 182. 寒冰子域和流水领域的法术表现在正确显示
 183. 切利亚克斯歌后：
      1. 【炽热回旋曲】：不能正确触发专长【不协之音】；此能力导致的疲劳状态可以通过暂停来消除。---未修复
      2. 【夺命颤音】：只有对敌人生效的吟游演绎才能触发，用勇气颂歌之类的盟友加成类演绎则无法触发。---未修复
+184. 现在在竞技场战斗中，角色将出现在他们的坐骑上；
+185. 【化形师之爪】专长现在正确工作---待测试。
+186. 奥法契约无法恢复术士之类的自发法术位 ---已修复
+187. 博学士可以选择 审判官--宣典官 的法术书。
+188. 豪勇念力可以当作寓守于攻来作为佯攻的先决专长。
+189. 塔西伦专精法师现在可以从 DLC 中选择法术。
+190. 宣诏英烈的职业能力在19级消失而非升级。---修复
+191. 念刃可以进行借机攻击了？（Fixed an issue with kinetic blade,  which prevented characters from making an attack of opportunity;）
+192. 天使道途的高等天堂宝剑【迅捷流光】现在会额外提供两次攻击，而不是一次。
+193. 如果乌布里格在第5章加入并且玩家角色是传奇，乌布里格将获得8个神话等级。【也就是说传奇道途队友保持8神话阶层是设计师本意？】
+194. 萨满--灾厄先驱，灾厄精魂现在获得20级能力【显化】（达到20级后，萨满成为疫病精魂，将奈落瘟疫全方面化为己用。她免疫属性伤害、负向等级、精准伤害，也免疫困惑、力竭、疲劳、战栗和恍愡状态此外，她的最大生命值提高体质调整值的两倍。）
+195. 重新设计了刃缚魔战士的能力。 True Magus 专长已被全新的 True Bond 专长所取代。当刃缚魔战士手持黑刃或者展示独立自我能力，现在提供 AC 加值（1/4魔战士等级的AC【环境】）；19级的大招换成了12级可获得，中期续航完美。（Reworked the progression of Bladebound magus archetype. True Magus feat has been replaced with a brand new True Bond feat. Independent Ego ability now provides an AC bonus, when the bladehound is holding their black blade;）
+196. 澄清了战斗祭司额外专长的先决条件描述，添加了有关 BAB 的信息
+197. 念力射手或者新能力【重击解限】：念力射手的远程武器与念袭变得极为致命。在运用上述攻击时，念力射手的重击威胁范围扩大2点，重击伤害倍率提高2倍，同时用于确认重击的攻击检定也会获得+2加值。
+198. 法术破敌专长不适用于宣典官的破敌特殊能力 - 已修复
+199. 法术大师的能力“法术集中”现在可以正常运行。？？？
+200. 螳螂狂信徒的红幕，在13级时通过快速动作而不是自由动作使用 - 已修复；
+201. 烛台守卫现在是表现加值【应该是实锤了，就是强行把烛台守卫改成表现加值，不是误改】。（Guarded Hearth ability has returned to the previous version of bonus types - fixed;）
+202. 修复了圣骑士的坐骑进度
+203. 修复了魔躯化形师9级不能正常使用恶魔/魔鬼拟态的问题。（Fixed Devil/Demon aspects not working for fiendflesh shifter on level 9;）
+204. 修复了玩家在灵使庭院中休息时缺少buff的问题
+205. 魔鬼道途的永无休止的战争法令不起作用——已修复（Devil's decree of Never-ending War didn't work - fixed;）
+206. 步武客的20级大招【杀戮大师】已重新设计，以使其正常工作
+207. 觅血者已经过重新设计，并获得了许多新能力：
+     1. 所有需要豁免的血液能力都得到了DC提升。现在的公式是10+觅血者等级+智力调整值。
+     2. 血液喷射能力 - 每觅血者等级伤害增加至 1d8。 
+     3. 鲜血之锥能力 - 每觅血者等级伤害增加至 1d6。 
+     4. 腐肉形态能力 - 现在拥有不死族专长。 
+     5. 鲜血之主：达到20级后，觅血者的血统令其血池能力变得更强。他的鲜血喷射、鲜血之锥、弱能术、吸血影障、吸血鬼之触、剧痛射线能力被强效、增效,如同运用了专长“法术强效”和“法术增效”。此外，觅血者的血池点数提高5点,力量、敏捷、智力获得+6天赋加值。还将描述符类型从 亵渎 更改为 直接。
+     6. 新增技能——渴求增长（在4、8、12、16级）——增加觅血者撕咬攻击的重击范围1。
+
 
 
 ## 最新游戏机制修改讯息
@@ -281,9 +316,9 @@
 ### 以下为2.10u正式版更新日志部分摘要
 
 - Eye of Truth has been reworked;
-- Fixed issues with damage for the following Honorable Judgment Gnome Hooked Hammer（高尚裁决）, Nature's Wrath Greatclub（自然之怒巨木棒）, Bellowing Howl Shortspear, Jharsygax pet（贾西各斯）, Club with Nails（带钉木棒）, Dark Glowing Scythe（暗蚀巨镰）, Boots of Stampede（狂奔之靴）, Vicious weapons（恶毒武器）;高尚裁决的独立附伤 - 修复
-- Fixed issues with damage for the following abilities: Angelic Attacks Rage Power（天使之击）, Mythic Charge（神话冲锋）, Mythic Leading Strike（引领打击）;
-- Fixed issues with damage for the following spells: Resounding Blow（轰鸣击）, Firebrand（火焰烙印）, Acid Maw（酸咬）, Geniekind（巨灵化身）, Vampiric Blade（吸血鬼之刃）, Elemental Assessor（元素评估）;
+- Fixed issues with damage for the following Honorable Judgment Gnome Hooked Hammer（高尚裁决）， Nature's Wrath Greatclub（自然之怒巨木棒）， Bellowing Howl Shortspear， Jharsygax pet（贾西各斯）， Club with Nails（带钉木棒）， Dark Glowing Scythe（暗蚀巨镰）， Boots of Stampede（狂奔之靴）， Vicious weapons（恶毒武器）;高尚裁决的独立附伤 - 修复
+- Fixed issues with damage for the following abilities: Angelic Attacks Rage Power（天使之击）， Mythic Charge（神话冲锋）， Mythic Leading Strike（引领打击）;
+- Fixed issues with damage for the following spells: Resounding Blow（轰鸣击）， Firebrand（火焰烙印）， Acid Maw（酸咬）， Geniekind（巨灵化身）， Vampiric Blade（吸血鬼之刃）， Elemental Assessor（元素评估）;
 - 不恕元素护符效果不正常 - 修复
 - 《咒法与召唤的二元性》不能刷出充足怒火卷轴 - 修复
 - 圣兽之爪加值不正常 - 修复
@@ -296,10 +331,10 @@
 - 酷热之风可以增效
 - 战法转换的BAB加成，由施法者赐予，而非受术者。
 - 混血术可以通过博学士扩表了
-- Aspect of the Wolf, greater Animal Aspect, Aspect of the Falcon, Aspect of the Bear, Aspect of the Stag, Blessing of the Salamander, Frightful Aspect, Geniekind, Fiery Body, Ice Body, and Iron Body spells now benefit from Master Shapeshifter feat and got the polymorph descriptor;
+- Aspect of the Wolf， greater Animal Aspect， Aspect of the Falcon， Aspect of the Bear， Aspect of the Stag， Blessing of the Salamander， Frightful Aspect， Geniekind， Fiery Body， Ice Body， and Iron Body spells now benefit from Master Shapeshifter feat and got the polymorph descriptor;
 - 念刃旋风修复
 - 闪现术对AOE法术也生效 - 修复
-- Bonuses to strength, dexterity, and constitution from the Master Shapeshifter mythic ability will be displayed separately now;
+- Bonuses to strength， dexterity， and constitution from the Master Shapeshifter mythic ability will be displayed separately now;
 - 辉煌启言可以额外投2次而非1次 – fixed;
 - 爱露莎蕾做完转化任务以后可以获得1/2神话等级的豁免加成【运气】
 - 疾病免疫或者维生气泡可以完全免疫孢子
@@ -324,7 +359,7 @@
 - 怒涛碎击专长工作不正常 -修复
 - 修复了天生武器的不正常的增强加值叠加
 - ~~动物异变和动物的自带体型增长可以叠加了~~（目前还没实装）
-- Alchemical Weapon ability, Alkenstar Alchemist background, and Negative Energy Mastery ability worked together incorrectly – fixed;
+- Alchemical Weapon ability， Alkenstar Alchemist background， and Negative Energy Mastery ability worked together incorrectly – fixed;
 - 念刃旋风没有超载，且使用超魔也不增加超载 - 修复
 - 火焰之躯没给徒手攻击而是爪击 - 修复
 - 修复了天生武器的增强加值叠加
