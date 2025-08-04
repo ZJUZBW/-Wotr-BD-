@@ -1,6 +1,6 @@
 # 开拓者-正义之怒的剧情队友的强力Build收集
 
-# 新网页上线---更好用一些 [点击跳转](zjuzbw.github.io/#/Wotr/Wotr-BD-Tm8/Seelah)
+# 新网页上线---更好用一些 [点击跳转](https://zjuzbw.github.io/#/Wotr/Wotr-BD-Tm8/Seelah)
 
 **制作者：aaathl**，持续更新中—— 有问题或补充可以在群里@我
 
